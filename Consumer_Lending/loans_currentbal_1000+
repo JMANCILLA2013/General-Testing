@@ -1,0 +1,1 @@
+select * from LOANS_R where locbal > 1000
