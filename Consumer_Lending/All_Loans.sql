@@ -1,3 +1,3 @@
 select *
 from LOAN_R
-limit 100
+limit 1000
